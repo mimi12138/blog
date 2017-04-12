@@ -1,0 +1,31 @@
+body{background-image:url("../image/a.jpg");background-attachment:fixed;color:white;}
+	a{color:#ffcccc;}
+	.container{padding-top:50px;}
+	.myphoto{width:150px;height:150px;}
+	.essay-head{display:inline;float:right;}
+	#more{display:inline;float:right;}
+	.heading{font-size:30px;}
+	.heading a{color:#660099;}
+	.essay-type{float:left;}
+	.essay-type ul li,.essay-type ul li a{text-decoration:none;list-style:none;}
+	.essay-type ul{padding-left:0;}
+	.jiantou{width:20px;height:20px;float:left;display:inline;}
+	.foot{margin-top:150px;}
+	.tools dd{width:20%;float:left; }
+	.footer{color:#777;font-size: 12px;line-height:50px;}
+	.musicplay{margin-top:8%;}
+	#show{color:#777;}
+	pre {
+		  white-space: pre-wrap;
+		}
+	table{
+		   
+		table-layout:fixed;/* 只有定义了表格的布局算法为fixed，下面td的定义才能起作用。 */
+	}
+	td{
+		width:100%;
+		word-break:keep-all;/* 不换行 */
+		white-space:nowrap;/* 不换行 */
+		overflow:hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+		text-overflow:ellipsis;/* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用。*/
+	}

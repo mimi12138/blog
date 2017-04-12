@@ -1,0 +1,14 @@
+body{background-image:url("../image/a.jpg");color:white;background-attachment:fixed;}
+	a{color:#ffcccc;}
+	.container{padding-top:50px;}
+	.essay{background-color:#6666cc;}
+	.essay-head{display:inline;}
+	.panel-heading{font-size:30px;}
+	.panel-heading a{color:black;}
+	.panel-body{height:55px;overflow:hidden;}
+	.myphoto{width:150px;height:150px;}
+	.notes{display:none;}
+	.jiantou{width:20px;height:20px;float:left;}
+	.foot{margin-top:150px;}
+	.footer{color:#777;font-size: 12px;line-height:50px;}
+	.tools dd{width:20%;float:left;}

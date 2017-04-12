@@ -1,0 +1,14 @@
+body{background-image:url("../image/b1.jpg");background-attachment:fixed;}
+	a{color:#777;}
+	.container{padding-top:50px;}
+	.essay{background-color:#6666cc;}
+	.essay-head{display:inline;float:right;}
+	.panel-heading{font-size:30px;}
+	.form-group{padding-left:0;}
+	.logo{font-size:1em;}
+	.myphoto{width:150px;height:150px;}
+	.jiantou{width:20px;height:20px;float:left;}
+	.foot{margin-top:150px;}
+	.footer{color:#777;font-size: 12px;line-height:50px;}
+	.tools dd{width:20%;float:left;}
+	.labelbox{margin-left:15px;}

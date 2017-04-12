@@ -1,0 +1,9 @@
+	body{background-image:url("../image/a.jpg");color:white;background-attachment:fixed;}
+	a{color:#ffcccc;}
+	.container{padding-top:50px;}
+	.myphoto{width:150px;height:150px;}
+	.myform{display:none;}
+	.jiantou{width:20px;height:20px;float:left;}
+	.foot{margin-top:150px;}
+	.tools dd{width:20%;float:left;}
+	.footer{color:#777;font-size: 12px;line-height:50px;}
